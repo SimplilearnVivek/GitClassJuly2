@@ -1,3 +1,3 @@
+Git init
 
-git init to initialize empty repository
-git clone is to clone and sychronize the web repository
+Git Clone UR
